@@ -1,0 +1,14 @@
+{
+    "folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"dart.lineLength": 180,
+		"editor.formatOnSave": true,
+		"dart.maxLogLineLength": 2000000,
+		"prettier.tabWidth": 4,
+		"files.insertFinalNewline": true,
+	}
+}
