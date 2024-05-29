@@ -2,7 +2,7 @@
 
 A small simulation app for food ordering and delivery created with Dart and Flutter.
 
-## Operations
+## Features
 
 -   Log in / Sign up
 -   Browse the menu
